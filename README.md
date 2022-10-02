@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NickRichards13
-- 👀 I’m interested in programming in C++, Java, possibly working with HTML and CSS.
-- 🌱 I’m currently learning C++, SQL, Java.
-- 💞️ I’m looking for cooperation as a developer and I would be interested to try myself in different fields
+- 👀 I’m interested in programming in Go, C++, Java, SQL.
+- 🌱 I’m currently learning Go, Java.
+- 💞️ I’m looking for cooperation as a developer and I would be interested to try myself in different fields.
 - 📫 How to reach me: ch.nikita1999@mail.ru
